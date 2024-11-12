@@ -1,11 +1,33 @@
-Copyright 2023 LinkedIn Corporation
+Copyright 2024 LinkedIn Corporation
 All Rights Reserved.
 
 Licensed under the LinkedIn Learning Exercise File License (the "License").
 See LICENSE in the project root for license information.
 
 ATTRIBUTIONS:
-[PLEASE PROVIDE ATTRIBUTIONS OR DELETE THIS AND THE ABOVE LINE “ATTRIBUTIONS”]
+
+Certainly! Here’s the list with the URLs in text format:
+
+--------------------  
+**mime-db**  
+https://github.com/jshttp/mime-db  
+License: MIT  
+https://opensource.org/licenses/MIT  
+--------------------  
+**mime-types**  
+https://github.com/jshttp/mime-types  
+License: MIT  
+https://opensource.org/licenses/MIT  
+--------------------  
+**@google/generative-ai**  
+https://github.com/google/generative-ai  
+License: Apache-2.0  
+http://www.apache.org/licenses/LICENSE-2.0  
+--------------------  
+
+
+Let me know if you need any further adjustments!
+
 
 Please note, this project may automatically load third party code from external 
 repositories (for example, NPM modules, Composer packages, or other dependencies). 
